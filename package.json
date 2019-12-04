@@ -1,0 +1,13 @@
+{
+  "name": "size-limit-not-array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@size-limit/file": "^2.2.1",
+    "size-limit": "^2.2.1"
+  },
+  "scripts": {
+    "check-size": "node ./check-size.js"
+  }
+}
